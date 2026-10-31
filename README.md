@@ -1,16 +1,26 @@
-## Hi there 👋
+# Nitin Kumar | Systems & Infrastructure Engineer
 
-<!--
-**Praneeth9nitin/praneeth9nitin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build systems close to the operating system.
 
-Here are some ideas to get you started:
+Currently focused on:
+- Rust systems programming
+- Linux kernel interfaces and namespaces
+- Container runtimes and isolation
+- OCI specifications
+- Linux virtualization and infrastructure
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Featured Projects
+
+**Runic** — Custom OCI-compliant container runtime built from scratch in Rust.
+
+**Animator** — Isolated code execution infrastructure using Docker and Go.
+
+**Martini** — Independent prototype exploring consistency in AI-generated film shots.
+
+### Technologies
+
+Rust · Linux · Go · Docker · Linux Namespaces · OverlayFS · Cgroups v2 · TypeScript
+
+### Currently Exploring
+
+KVM, QEMU, Linux networking, and virtualization infrastructure.
